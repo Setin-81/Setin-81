@@ -10,7 +10,7 @@
 - 🤖 **Machine Learning & Deep Learning Engineer** experienced in building predictive models
 - 🧠 Strong background in **Statistics, Linear Algebra, and Algorithms**
 - 🔍 Passionate about extracting insights from data and solving real-world problems
-- ⚡ Interested in **AI, Computer Vision and NLP**
+- ⚡ Interested in **AI, Computer Vision, NLP and Web design (for fun)**
 - 📫 Reach me at: ** setin.yazdani81@gmail.com **
 
 ---

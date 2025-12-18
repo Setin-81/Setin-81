@@ -10,14 +10,14 @@
 - 🤖 **Machine Learning & Deep Learning Engineer** experienced in building predictive models
 - 🧠 Strong background in **Statistics, Linear Algebra, and Algorithms**
 - 🔍 Passionate about extracting insights from data and solving real-world problems
-- ⚡ Interested in **AI, Computer Vision, NLP, and MLOps**
-- 📫 Reach me at: **aradazarpanah27@gmail.com**
+- ⚡ Interested in **AI, Computer Vision and NLP**
+- 📫 Reach me at: ** **
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="mailto:aradazarpanah27@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:setin.yazdani81@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
   <a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/></a>
   <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://kaggle.com/YOUR_ID"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
@@ -71,13 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aradazr&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradazr&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aradazr&theme=onedark"/>
-</p>
+ 
 
 ---
 

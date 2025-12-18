@@ -11,7 +11,7 @@
 - 🧠 Strong background in **Statistics, Linear Algebra, and Algorithms**
 - 🔍 Passionate about extracting insights from data and solving real-world problems
 - ⚡ Interested in **AI, Computer Vision and NLP**
-- 📫 Reach me at: ** **
+- 📫 Reach me at: ** setin.yazdani81@gmail.com **
 
 ---
 

@@ -1,16 +1,87 @@
 ## Hi there 👋
 
-<!--
-**Setin-81/Setin-81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Razieh Yazdanian.</h1>
+<h3 align="center">Data Analyst | Machine Learning & Deep Learning Engineer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+- 📊 **Data Analyst** with strong skills in data cleaning, analysis, and visualization
+- 🤖 **Machine Learning & Deep Learning Engineer** experienced in building predictive models
+- 🧠 Strong background in **Statistics, Linear Algebra, and Algorithms**
+- 🔍 Passionate about extracting insights from data and solving real-world problems
+- ⚡ Interested in **AI, Computer Vision, NLP, and MLOps**
+- 📫 Reach me at: **aradazarpanah27@gmail.com**
+
+---
+
+### 🌐 Connect with me
+<p align="left">
+  <a href="mailto:aradazarpanah27@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://linkedin.com/in/YOUR_ID"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://kaggle.com/YOUR_ID"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+#### 📌 Programming & Query Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+---
+
+#### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=tableau)
+
+---
+
+#### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=for-the-badge)
+
+
+---
+
+#### 🧠 Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv)
+
+---
+
+#### ☁️ Tools & Platforms
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aradazr&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradazr&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aradazr&theme=onedark"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>

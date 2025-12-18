@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Razieh Yazdanian.</h1>
+<h1 align="center"> I'm Razieh Yazdanian. </h1>
 <h3 align="center">Data Analyst | Machine Learning & Deep Learning Engineer</h3>
 
 ---

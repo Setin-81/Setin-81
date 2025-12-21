@@ -68,17 +68,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setin-81&layout=compact&theme=tokyonight&langs_count=8"/>
-
-</p>
- 
-
----
-
----
-
-### 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Setin-81&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setin-81&layout=compact&theme=tokyonight"/>
 </p>

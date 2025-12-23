@@ -8,7 +8,6 @@
 ### 👋 About Me
 - 📊 **Data Analyst** with strong skills in data cleaning, analysis, and visualization
 - 🤖 **Machine Learning & Deep Learning Engineer** experienced in building predictive models
-- 🧠 Strong background in **Statistics, Linear Algebra, and Algorithms**
 - 🔍 Passionate about extracting insights from data and solving real-world problems
 - ⚡ Interested in **AI, Computer Vision, NLP and Web design (for fun)**
 - 🌐 Website: **https://yourwebsite.com**

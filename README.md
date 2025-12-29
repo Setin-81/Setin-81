@@ -81,3 +81,12 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
+
+---
+
+### 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Setin-81&color=blue&style=flat-square" alt="Profile views"/>
+</p>
+
+---

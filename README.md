@@ -69,10 +69,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Setin-81&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Setin-81&show_icons=true&theme=tokyonight&cache_seconds=3600"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setin-81&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 

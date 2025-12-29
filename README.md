@@ -85,7 +85,7 @@
 ---
 
 ### 👀 Profile Views
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Setin-81&color=blue&style=flat-square" alt="Profile views"/>
 </p>
 

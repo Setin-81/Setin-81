@@ -28,7 +28,7 @@
 ### 💻 Tech Stack
 
 #### 📌 Programming & Query Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 

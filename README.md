@@ -70,9 +70,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Setin-81&show_icons=true&theme=tokyonight&cache_seconds=3600"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setin-81&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Setin-81&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setin-81&layout=compact&theme=tokyonight"/>
 </p>
+
 
 
 ---

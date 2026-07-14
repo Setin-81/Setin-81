@@ -11,7 +11,7 @@
 - 🔍 Passionate about extracting insights from data and solving real-world problems
 - ⚡ Interested in **AI, Computer Vision, NLP and Web design (for fun)**
 - 🌐 Website: **https://yourwebsite.com**
-- 📫 Contact: ** setin.yazdani81@gmail.com **
+- 📫 Contact: ** razieh.yazdaniyan@gmail.com **
 
 ---
 
